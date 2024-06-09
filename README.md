@@ -3,7 +3,8 @@
 📐 **项目描述**：
 该设计参考2023年全国大学生电子设计大赛C题，采用 TMS320F28335 制作。普通的 MCU 单片机计算效率低下，因此采用 DSP 完成。显示器件为 LCD1602。
 
-![测量显示图](![image]https://github.com/pieceofApple/DSPF28335_FFT-/assets/116827010/f8c83edd-a015-4a3e-9555-a04fd5fd074c)
+![测量显示图]![image](https://github.com/pieceofApple/DSPF28335_FFT-/assets/116827010/fce5133c-74ee-426a-b2ca-c213267ea5cb)
+
 
 ## 核心设计
 - **核心芯片**: TMS320F28335
